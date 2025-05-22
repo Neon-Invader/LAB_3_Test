@@ -1,0 +1,7 @@
+/etc/myRPC/client.conf
+
+# Client configuration
+server_ip = 127.0.0.1
+port = 8080
+socket_type = stream
+timeout_ms = 3000
