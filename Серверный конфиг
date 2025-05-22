@@ -1,0 +1,7 @@
+/etc/myRPC/server.conf
+
+  # Server configuration
+port = 8080
+socket_type = stream
+max_connections = 100
+log_path = /var/log/myrpc.log
