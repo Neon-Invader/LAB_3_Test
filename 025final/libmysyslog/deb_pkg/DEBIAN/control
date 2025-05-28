@@ -1,0 +1,7 @@
+Package: libmysyslog
+Version: 1.0-1
+Section: libs
+Priority: optional
+Architecture: amd64
+Maintainer: Your Name <DohKot>
+Description: My syslog library
